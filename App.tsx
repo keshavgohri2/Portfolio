@@ -96,7 +96,7 @@ const projectData: ProjectItem[] = [
     primaryTech: "Kotlin", 
     description: "An HR management app for attendance, check-in/out, leaves, and regularization.", 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=WizSuite+HR&font=poppins",
-    githubUrl: "https://github.com/keshavgohri2/WizSuite-HR",
+    githubUrl: "https://github.com/keshavgohri2?tab=repositories",
   },
   { 
     name: "Survey App", 
@@ -104,7 +104,7 @@ const projectData: ProjectItem[] = [
     description: "A hybrid survey app with check-in/out, geofencing, and offline data sync.", 
     technologiesInvolved: ["Retrofit", "SQLite"], 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=Survey+App&font=poppins",
-    githubUrl: "https://github.com/keshavgohri2/Survey-App-Java",
+    githubUrl: "https://github.com/keshavgohri2?tab=repositories",
   },
   { 
     name: "FitFlow", 
@@ -113,7 +113,7 @@ const projectData: ProjectItem[] = [
     technologiesInvolved: ["SQLite"], 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=FitFlow&font=poppins",
     githubUrl: "https://github.com/keshavgohri2/FitFlow",
-    youtubeUrl: "https://www.youtube.com/watch?v=yourvideoid1"
+    youtubeUrl: "https://github.com/keshavgohri2?tab=repositories"
   },
   { 
     name: "MorseMate", 
@@ -121,14 +121,14 @@ const projectData: ProjectItem[] = [
     description: "A real-time English ↔ Morse code translator app.", 
     technologiesInvolved: ["Firebase"], 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=MorseMate&font=poppins",
-    githubUrl: "https://github.com/keshavgohri2/MorseMate",
+    githubUrl: "https://github.com/keshavgohri2?tab=repositories",
   },
   { 
     name: "Browser App", 
     primaryTech: "Java", 
     description: "A WebView-based browser with focus mode, restricted mode, and time-tracking features.", 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=Browser+App&font=poppins",
-    githubUrl: "https://github.com/keshavgohri2/Browser-App",
+    githubUrl: "https://github.com/keshavgohri2?tab=repositories",
   },
   { 
     name: "Echo Board", 
@@ -136,7 +136,7 @@ const projectData: ProjectItem[] = [
     description: "A quotes app allowing users to add, view, and delete quotes with local storage.", 
     technologiesInvolved: ["SQLite"], 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=Echo+Board&font=poppins",
-    githubUrl: "https://github.com/keshavgohri2/EchoBoard",
+    githubUrl: "https://github.com/keshavgohri2?tab=repositories",
   },
   { 
     name: "Tic Tac Toe Game", 
@@ -144,7 +144,7 @@ const projectData: ProjectItem[] = [
     description: "A classic two-player Android Tic Tac Toe game with basic game logic and UI.", 
     imageUrl: "https://placehold.co/600x400/1E293B/E2E8F0?text=Tic+Tac+Toe&font=poppins",
     githubUrl: "https://github.com/keshavgohri2/Tic-Tac-Toe-Game",
-    youtubeUrl: "https://www.youtube.com/watch?v=yourvideoid2"
+    youtubeUrl: "https://github.com/keshavgohri2?tab=repositories"
   }
 ];
 
