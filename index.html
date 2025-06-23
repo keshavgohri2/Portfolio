@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth scroll-pt-16 md:scroll-pt-20">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keshav Gohri - Android Developer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Roboto', 'sans-serif'],
+            poppins: ['Poppins', 'sans-serif'],
+          },
+          colors: {
+            primary: '#38BDF8', // Sky 500 (Bright Blue)
+            'primary-hover': '#0EA5E9', // Sky 600
+            secondary: '#10B981', // Emerald 500 (Green)
+            'secondary-hover': '#059669', // Emerald 600
+            accent: '#F472B6', // Pink 400 (for highlights)
+            'accent-hover': '#EC4899', // Pink 500
+
+            'dark-bg': '#0B1120', // Very Dark Blue/Slate - Main Background
+            'content-bg': '#111827', // Dark Gray/Blue - Slightly lighter for content areas if needed
+            'card-bg': '#1E293B', // Slate 800 - Cards, Navbar
+            'card-hover-bg': '#334155', // Slate 700
+            
+            'light-text-main': '#F3F4F6', // Gray 100 - Main text
+            'light-text-secondary': '#D1D5DB', // Gray 300 - Secondary text
+            'light-text-tertiary': '#9CA3AF', // Gray 400 - Tertiary/Muted text
+            
+            'dark-border': '#374151', // Gray 700 - Borders
+          }
+        }
+      }
+    }
+  </script>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body class="bg-dark-bg font-sans text-light-text-main antialiased">
+  <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
