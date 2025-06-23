@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { PersonalInfo, EducationItem, ExperienceItem, ProjectItem, NavItem, TechnicalSkills } from './types';
 import Navbar from './components/Navbar';
@@ -19,8 +20,8 @@ const personalInfoData: PersonalInfo = {
   location: "Noida - 201301",
   summary: "Detail-oriented Android Developer with expertise in Java, Kotlin, Retrofit, and MVVM/Clean Architecture. Skilled in integrating Jetpack components (Room, WorkManager, LiveData) and SQLite for offline functionality. Adept at delivering clean, maintainable code, optimizing UI performance, and collaborating with teams to build secure, user-centric mobile apps.",
   tagline: "Crafting innovative and user-centric Android experiences. Passionate about clean code and cutting-edge mobile technologies.",
-  heroImageUrl: "./me.png", // Replace with actual image URL
-  cvUrl: "./Keshav_Gohri_Resume.pdf" // Example CV URL
+  heroImageUrl: "./me.png", // Updated hero image URL
+  cvUrl: "./Keshav_Gohri_Resume.pdf" // Updated CV URL
 };
 
 const educationData: EducationItem[] = [
