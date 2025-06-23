@@ -13,7 +13,7 @@ const personalInfoData: PersonalInfo = {
   title: "Android Developer",
   email: "gohrikeshav9@gmail.com",
   phone: "9259896374",
-  linkedin: "https://www.linkedin.com/in/keshavgohri",
+  linkedin: "https://www.linkedin.com/in/keshav-gohri-450402254/",
   leetcode: "https://leetcode.com/keshavgohri/",
   github: "https://github.com/keshavgohri2",
   location: "Noida - 201301",
