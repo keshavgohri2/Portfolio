@@ -20,8 +20,8 @@ const personalInfoData: PersonalInfo = {
   location: "Noida - 201301",
   summary: "Detail-oriented Android Developer with expertise in Java, Kotlin, Retrofit, and MVVM/Clean Architecture. Skilled in integrating Jetpack components (Room, WorkManager, LiveData) and SQLite for offline functionality. Adept at delivering clean, maintainable code, optimizing UI performance, and collaborating with teams to build secure, user-centric mobile apps.",
   tagline: "Crafting innovative and user-centric Android experiences. Passionate about clean code and cutting-edge mobile technologies.",
-  heroImageUrl: "./me.png", // Updated hero image URL
-  cvUrl: "./Keshav_Gohri_Resume.pdf" // Updated CV URL
+  heroImageUrl: "https://placehold.co/400x400/1E293B/E2E8F0?text=KG&font=poppins", // Updated hero image URL
+  cvUrl: "https://github.com/keshavgohri2/Portfolio/blob/main/Keshav_Gohri_Resume.pdf" // Updated CV URL
 };
 
 const educationData: EducationItem[] = [
